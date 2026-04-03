@@ -1,0 +1,26 @@
+# --- CRITICAL STABILITY PINS ---
+# Numpy 2.0 breaks many AI libs. Keep this pinned!
+numpy<2.0
+
+# --- CORE AI ENGINE ---
+opencv-python           # For Video Processing (cv2)
+ultralytics             # For YOLO Object Detection
+
+# --- OCR (TEXT READING) ---
+# Your code specifically imports these. Do not use easyocr.
+paddlepaddle            # Core Framework (Use paddlepaddle-gpu if you have a GPU)
+paddleocr               # The specific library that was missing
+
+# --- AUDIO ENGINE ---
+openai-whisper          # For Speech-to-Text
+imageio-ffmpeg          # For Audio Extraction
+
+# --- LLM INTEGRATION ---
+google-generativeai     # For Gemini API calls
+python-dotenv   
+groq        # For loading .env files
+
+# --- UTILITIES ---
+scipy
+pillow
+tqdm

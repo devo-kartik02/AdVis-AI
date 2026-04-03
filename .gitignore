@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pt
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+dist/
+
+# Environment & Secrets
+.env
+
+# Large Files & Data
+data/
+ai_engine/models/
+ai_engine/public/
+runs/
+
+# Exclude generated structure files
+project_structure.txt
+.qoder/
