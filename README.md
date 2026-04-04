@@ -4,7 +4,6 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=flat-square&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/AI%20Engine-Python%203.10-3776AB?style=flat-square&logo=python)
 ![YOLOv8](https://img.shields.io/badge/Vision-YOLOv8%20%2B%20OpenCV-FF5A5F?style=flat-square)
-![Groq](https://img.shields.io/badge/LLM-Groq%20-8E75B2?style=flat-square)
 
 AdVis AI is a full-stack, multi-modal AI platform designed to objectively measure how human audiences perceive video and image advertisements. It calculates product visibility, flags visual distractions, and provides LLM-powered strategic verdicts to optimize marketing ROI.
 
