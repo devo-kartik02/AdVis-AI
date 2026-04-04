@@ -1,4 +1,4 @@
-# 👁️ AdVis.ai - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
+# 👁️ AdVis AI - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
 
 ![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=flat-square&logo=nodedotjs)
@@ -6,7 +6,7 @@
 ![YOLOv8](https://img.shields.io/badge/Vision-YOLOv8%20%2B%20OpenCV-FF5A5F?style=flat-square)
 ![Gemini](https://img.shields.io/badge/LLM-Gemini%201.5%20Flash-8E75B2?style=flat-square)
 
-AdVis.ai is a full-stack, multi-modal AI platform designed to objectively measure how human audiences perceive video and image advertisements. It calculates product visibility, flags visual distractions, and provides LLM-powered strategic verdicts to optimize marketing ROI.
+AdVis AI is a full-stack, multi-modal AI platform designed to objectively measure how human audiences perceive video and image advertisements. It calculates product visibility, flags visual distractions, and provides LLM-powered strategic verdicts to optimize marketing ROI.
 
 ## 🌟 Key Features
 
