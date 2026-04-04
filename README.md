@@ -1,4 +1,4 @@
-# 👁️ AdVis.ai - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
+<img width="1900" height="927" alt="S1" src="https://github.com/user-attachments/assets/2cadbee1-ac2d-4a62-8d4c-b37b99abbdbf" /># 👁️ AdVis.ai - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
 
 ![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=flat-square&logo=nodedotjs)
@@ -17,10 +17,21 @@ AdVis.ai is a full-stack, multi-modal AI platform designed to objectively measur
 - **📊 Interactive Dashboard**: Modern React/Vite frontend with dynamic Bento-grid charts, PDF report exports, and an Admin control panel.
 
 📸 **Screenshots** <p align="center">
-  *(Add your image links here)*
+  <img width="1900" height="927" alt="S1" src="https://github.com/user-attachments/assets/411eebea-049d-4aba-bd4a-baa011059349" />
+  <img width="1903" height="928" alt="Screenshot 2026-03-24 141530" src="https://github.com/user-attachments/assets/31508967-fe41-479d-975d-18ece55471d4" />
+  <img width="1900" height="926" alt="SS3" src="https://github.com/user-attachments/assets/c6c25a24-cab6-4e6f-b367-b692a22f9f99" />
+<img width="1898" height="927" alt="SS4" src="https://github.com/user-attachments/assets/543d15b3-9b88-401c-852b-3a8cd7adcd45" />
+<img width="1901" height="926" alt="SS5" src="https://github.com/user-attachments/assets/81cd1cb4-3357-4546-b5a7-821cf5432d53" />
+<img width="1897" height="927" alt="SS6" src="https://github.com/user-attachments/assets/b8e78010-c9d2-4803-ab63-0b4487855973" />
+<img width="1897" height="927" alt="SS6" src="https://github.com/user-attachments/assets/a9eeb4bf-a825-407d-8f99-a16b88e894e0" />
+<img width="1900" height="928" alt="SS8" src="https://github.com/user-attachments/assets/4d14b843-4cb9-4b9c-bbdd-c016f98ac9f9" />
+<img width="1905" height="928" alt="SS9" src="https://github.com/user-attachments/assets/2b987fbe-fba1-465d-bca8-cc35cfa42a9d" />
+
+
 </p>
 
----
+
+
 
 ## 🏗️ System Architecture
 
