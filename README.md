@@ -23,7 +23,6 @@ AdVis.ai is a full-stack, multi-modal AI platform designed to objectively measur
 <img width="1898" height="927" alt="SS4" src="https://github.com/user-attachments/assets/543d15b3-9b88-401c-852b-3a8cd7adcd45" />
 <img width="1901" height="926" alt="SS5" src="https://github.com/user-attachments/assets/81cd1cb4-3357-4546-b5a7-821cf5432d53" />
 <img width="1897" height="927" alt="SS6" src="https://github.com/user-attachments/assets/b8e78010-c9d2-4803-ab63-0b4487855973" />
-<img width="1897" height="927" alt="SS6" src="https://github.com/user-attachments/assets/a9eeb4bf-a825-407d-8f99-a16b88e894e0" />
 <img width="1900" height="928" alt="SS8" src="https://github.com/user-attachments/assets/4d14b843-4cb9-4b9c-bbdd-c016f98ac9f9" />
 <img width="1905" height="928" alt="SS9" src="https://github.com/user-attachments/assets/2b987fbe-fba1-465d-bca8-cc35cfa42a9d" />
 
