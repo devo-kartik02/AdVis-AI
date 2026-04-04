@@ -1,4 +1,4 @@
-<img width="1900" height="927" alt="S1" src="https://github.com/user-attachments/assets/2cadbee1-ac2d-4a62-8d4c-b37b99abbdbf" /># 👁️ AdVis.ai - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
+# 👁️ AdVis.ai - Deep Learning Based Visibility Analysis for Food and Cosmetic Advertisements
 
 ![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=flat-square&logo=nodedotjs)
